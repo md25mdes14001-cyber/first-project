@@ -1,3 +1,3 @@
 # first-project
 test project 
-author - Abhimanyu Shukla
+author - The Abhimanyu Shukla
